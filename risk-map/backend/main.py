@@ -9,7 +9,7 @@ import pandas as pd # Pandas
 from dotenv import load_dotenv
 import os
 
-load_dotenv('key.env') # loads API from envirnoment 
+load_dotenv('.env') # loads API from envirnoment 
 
 client = openrouteservice.Client(key=os.getenv("ORS_API_KEY")) # API key
 
