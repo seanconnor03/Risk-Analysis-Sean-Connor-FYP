@@ -1,0 +1,649 @@
+﻿STATISTIC,Statistic Label,TLIST(A1),Year,C02875V03459,Type of Vehicle,UNIT,VALUE
+THA10C1,Vehicle Population,2000,2000,-,All vehicle types,Number,1666744
+THA10C1,Vehicle Population,2000,2000,10,Private cars,Number,1314059
+THA10C1,Vehicle Population,2000,2000,20,Goods vehicles,Number,199259
+THA10C1,Vehicle Population,2000,2000,30,Motor cycles,Number,28489
+THA10C1,Vehicle Population,2000,2000,40,Tractors & Machinery,Number,74211
+THA10C1,Vehicle Population,2000,2000,50,Small PSVs,Number,13983
+THA10C1,Vehicle Population,2000,2000,60,Large PSVs,Number,6726
+THA10C1,Vehicle Population,2000,2000,70,Exempt vehicles,Number,12448
+THA10C1,Vehicle Population,2000,2000,80,Other vehicles,Number,17569
+THA10C1,Vehicle Population,2001,2001,-,All vehicle types,Number,1748599
+THA10C1,Vehicle Population,2001,2001,10,Private cars,Number,1372672
+THA10C1,Vehicle Population,2001,2001,20,Goods vehicles,Number,214767
+THA10C1,Vehicle Population,2001,2001,30,Motor cycles,Number,31589
+THA10C1,Vehicle Population,2001,2001,40,Tractors & Machinery,Number,73281
+THA10C1,Vehicle Population,2001,2001,50,Small PSVs,Number,15799
+THA10C1,Vehicle Population,2001,2001,60,Large PSVs,Number,6985
+THA10C1,Vehicle Population,2001,2001,70,Exempt vehicles,Number,13744
+THA10C1,Vehicle Population,2001,2001,80,Other vehicles,Number,19762
+THA10C1,Vehicle Population,2002,2002,-,All vehicle types,Number,1833705
+THA10C1,Vehicle Population,2002,2002,10,Private cars,Number,1437985
+THA10C1,Vehicle Population,2002,2002,20,Goods vehicles,Number,228658
+THA10C1,Vehicle Population,2002,2002,30,Motor cycles,Number,32835
+THA10C1,Vehicle Population,2002,2002,40,Tractors & Machinery,Number,73356
+THA10C1,Vehicle Population,2002,2002,50,Small PSVs,Number,18215
+THA10C1,Vehicle Population,2002,2002,60,Large PSVs,Number,7050
+THA10C1,Vehicle Population,2002,2002,70,Exempt vehicles,Number,14851
+THA10C1,Vehicle Population,2002,2002,80,Other vehicles,Number,20754
+THA10C1,Vehicle Population,2003,2003,-,All vehicle types,Number,1918721
+THA10C1,Vehicle Population,2003,2003,10,Private cars,Number,1500123
+THA10C1,Vehicle Population,2003,2003,20,Goods vehicles,Number,244634
+THA10C1,Vehicle Population,2003,2003,30,Motor cycles,Number,33920
+THA10C1,Vehicle Population,2003,2003,40,Tractors & Machinery,Number,74700
+THA10C1,Vehicle Population,2003,2003,50,Small PSVs,Number,19947
+THA10C1,Vehicle Population,2003,2003,60,Large PSVs,Number,7203
+THA10C1,Vehicle Population,2003,2003,70,Exempt vehicles,Number,15909
+THA10C1,Vehicle Population,2003,2003,80,Other vehicles,Number,22285
+THA10C1,Vehicle Population,2004,2004,-,All vehicle types,Number,2013113
+THA10C1,Vehicle Population,2004,2004,10,Private cars,Number,1568619
+THA10C1,Vehicle Population,2004,2004,20,Goods vehicles,Number,262323
+THA10C1,Vehicle Population,2004,2004,30,Motor cycles,Number,34768
+THA10C1,Vehicle Population,2004,2004,40,Tractors & Machinery,Number,76061
+THA10C1,Vehicle Population,2004,2004,50,Small PSVs,Number,21251
+THA10C1,Vehicle Population,2004,2004,60,Large PSVs,Number,7373
+THA10C1,Vehicle Population,2004,2004,70,Exempt vehicles,Number,17177
+THA10C1,Vehicle Population,2004,2004,80,Other vehicles,Number,25541
+THA10C1,Vehicle Population,2005,2005,-,All vehicle types,Number,2115150
+THA10C1,Vehicle Population,2005,2005,10,Private cars,Number,1647331
+THA10C1,Vehicle Population,2005,2005,20,Goods vehicles,Number,280217
+THA10C1,Vehicle Population,2005,2005,30,Motor cycles,Number,34373
+THA10C1,Vehicle Population,2005,2005,40,Tractors & Machinery,Number,76002
+THA10C1,Vehicle Population,2005,2005,50,Small PSVs,Number,22315
+THA10C1,Vehicle Population,2005,2005,60,Large PSVs,Number,7489
+THA10C1,Vehicle Population,2005,2005,70,Exempt vehicles,Number,18672
+THA10C1,Vehicle Population,2005,2005,80,Other vehicles,Number,28751
+THA10C1,Vehicle Population,2006,2006,-,All vehicle types,Number,2246988
+THA10C1,Vehicle Population,2006,2006,10,Private cars,Number,1746845
+THA10C1,Vehicle Population,2006,2006,20,Goods vehicles,Number,305743
+THA10C1,Vehicle Population,2006,2006,30,Motor cycles,Number,34410
+THA10C1,Vehicle Population,2006,2006,40,Tractors & Machinery,Number,76908
+THA10C1,Vehicle Population,2006,2006,50,Small PSVs,Number,23644
+THA10C1,Vehicle Population,2006,2006,60,Large PSVs,Number,7771
+THA10C1,Vehicle Population,2006,2006,70,Exempt vehicles,Number,20231
+THA10C1,Vehicle Population,2006,2006,80,Other vehicles,Number,31436
+THA10C1,Vehicle Population,2007,2007,-,All vehicle types,Number,2400476
+THA10C1,Vehicle Population,2007,2007,10,Private cars,Number,1858906
+THA10C1,Vehicle Population,2007,2007,20,Goods vehicles,Number,335716
+THA10C1,Vehicle Population,2007,2007,30,Motor cycles,Number,35841
+THA10C1,Vehicle Population,2007,2007,40,Tractors & Machinery,Number,78861
+THA10C1,Vehicle Population,2007,2007,50,Small PSVs,Number,26139
+THA10C1,Vehicle Population,2007,2007,60,Large PSVs,Number,8181
+THA10C1,Vehicle Population,2007,2007,70,Exempt vehicles,Number,22348
+THA10C1,Vehicle Population,2007,2007,80,Other vehicles,Number,34483
+THA10C1,Vehicle Population,2008,2008,-,All vehicle types,Number,2502429
+THA10C1,Vehicle Population,2008,2008,10,Private cars,Number,1932729
+THA10C1,Vehicle Population,2008,2008,20,Goods vehicles,Number,352239
+THA10C1,Vehicle Population,2008,2008,30,Motor cycles,Number,38068
+THA10C1,Vehicle Population,2008,2008,40,Tractors & Machinery,Number,79404
+THA10C1,Vehicle Population,2008,2008,50,Small PSVs,Number,29159
+THA10C1,Vehicle Population,2008,2008,60,Large PSVs,Number,8636
+THA10C1,Vehicle Population,2008,2008,70,Exempt vehicles,Number,24409
+THA10C1,Vehicle Population,2008,2008,80,Other vehicles,Number,37784
+THA10C1,Vehicle Population,2009,2009,-,All vehicle types,Number,2479030
+THA10C1,Vehicle Population,2009,2009,10,Private cars,Number,1914924
+THA10C1,Vehicle Population,2009,2009,20,Goods vehicles,Number,344671
+THA10C1,Vehicle Population,2009,2009,30,Motor cycles,Number,38741
+THA10C1,Vehicle Population,2009,2009,40,Tractors & Machinery,Number,76007
+THA10C1,Vehicle Population,2009,2009,50,Small PSVs,Number,28959
+THA10C1,Vehicle Population,2009,2009,60,Large PSVs,Number,8679
+THA10C1,Vehicle Population,2009,2009,70,Exempt vehicles,Number,25644
+THA10C1,Vehicle Population,2009,2009,80,Other vehicles,Number,41404
+THA10C1,Vehicle Population,2010,2010,-,All vehicle types,Number,2437699
+THA10C1,Vehicle Population,2010,2010,10,Private cars,Number,1890110
+THA10C1,Vehicle Population,2010,2010,20,Goods vehicles,Number,331779
+THA10C1,Vehicle Population,2010,2010,30,Motor cycles,Number,38043
+THA10C1,Vehicle Population,2010,2010,40,Tractors & Machinery,Number,72014
+THA10C1,Vehicle Population,2010,2010,50,Small PSVs,Number,27578
+THA10C1,Vehicle Population,2010,2010,60,Large PSVs,Number,8373
+THA10C1,Vehicle Population,2010,2010,70,Exempt vehicles,Number,25587
+THA10C1,Vehicle Population,2010,2010,80,Other vehicles,Number,44215
+THA10C1,Vehicle Population,2011,2011,-,All vehicle types,Number,2419523
+THA10C1,Vehicle Population,2011,2011,10,Private cars,Number,1886421
+THA10C1,Vehicle Population,2011,2011,20,Goods vehicles,Number,319530
+THA10C1,Vehicle Population,2011,2011,30,Motor cycles,Number,36531
+THA10C1,Vehicle Population,2011,2011,40,Tractors & Machinery,Number,70463
+THA10C1,Vehicle Population,2011,2011,50,Small PSVs,Number,26042
+THA10C1,Vehicle Population,2011,2011,60,Large PSVs,Number,8203
+THA10C1,Vehicle Population,2011,2011,70,Exempt vehicles,Number,26173
+THA10C1,Vehicle Population,2011,2011,80,Other vehicles,Number,46160
+THA10C1,Vehicle Population,2012,2012,-,All vehicle types,Number,2421798
+THA10C1,Vehicle Population,2012,2012,10,Private cars,Number,1896184
+THA10C1,Vehicle Population,2012,2012,20,Goods vehicles,Number,312866
+THA10C1,Vehicle Population,2012,2012,30,Motor cycles,Number,35438
+THA10C1,Vehicle Population,2012,2012,40,Tractors & Machinery,Number,70288
+THA10C1,Vehicle Population,2012,2012,50,Small PSVs,Number,24779
+THA10C1,Vehicle Population,2012,2012,60,Large PSVs,Number,8241
+THA10C1,Vehicle Population,2012,2012,70,Exempt vehicles,Number,26095
+THA10C1,Vehicle Population,2012,2012,80,Other vehicles,Number,47906
+THA10C1,Vehicle Population,2013,2013,-,All vehicle types,Number,2463697
+THA10C1,Vehicle Population,2013,2013,10,Private cars,Number,1913939
+THA10C1,Vehicle Population,2013,2013,20,Goods vehicles,Number,312578
+THA10C1,Vehicle Population,2013,2013,30,Motor cycles,Number,35670
+THA10C1,Vehicle Population,2013,2013,40,Tractors & Machinery,Number,85801
+THA10C1,Vehicle Population,2013,2013,50,Small PSVs,Number,23605
+THA10C1,Vehicle Population,2013,2013,60,Large PSVs,Number,8307
+THA10C1,Vehicle Population,2013,2013,70,Exempt vehicles,Number,26164
+THA10C1,Vehicle Population,2013,2013,80,Other vehicles,Number,57633
+THA10C1,Vehicle Population,2014,2014,-,All vehicle types,Number,2521433
+THA10C1,Vehicle Population,2014,2014,10,Private cars,Number,1950080
+THA10C1,Vehicle Population,2014,2014,20,Goods vehicles,Number,316687
+THA10C1,Vehicle Population,2014,2014,30,Motor cycles,Number,36429
+THA10C1,Vehicle Population,2014,2014,40,Tractors & Machinery,Number,95593
+THA10C1,Vehicle Population,2014,2014,50,Small PSVs,Number,22890
+THA10C1,Vehicle Population,2014,2014,60,Large PSVs,Number,8637
+THA10C1,Vehicle Population,2014,2014,70,Exempt vehicles,Number,26211
+THA10C1,Vehicle Population,2014,2014,80,Other vehicles,Number,64906
+THA10C1,Vehicle Population,2015,2015,-,All vehicle types,Number,2573961
+THA10C1,Vehicle Population,2015,2015,10,Private cars,Number,1992819
+THA10C1,Vehicle Population,2015,2015,20,Goods vehicles,Number,326277
+THA10C1,Vehicle Population,2015,2015,30,Motor cycles,Number,36755
+THA10C1,Vehicle Population,2015,2015,40,Tractors & Machinery,Number,92367
+THA10C1,Vehicle Population,2015,2015,50,Small PSVs,Number,22428
+THA10C1,Vehicle Population,2015,2015,60,Large PSVs,Number,9019
+THA10C1,Vehicle Population,2015,2015,70,Exempt vehicles,Number,27019
+THA10C1,Vehicle Population,2015,2015,80,Other vehicles,Number,67278
+THA10C1,Vehicle Population,2016,2016,-,All vehicle types,Number,2631093
+THA10C1,Vehicle Population,2016,2016,10,Private cars,Number,2038268
+THA10C1,Vehicle Population,2016,2016,20,Goods vehicles,Number,338431
+THA10C1,Vehicle Population,2016,2016,30,Motor cycles,Number,37461
+THA10C1,Vehicle Population,2016,2016,40,Tractors & Machinery,Number,89237
+THA10C1,Vehicle Population,2016,2016,50,Small PSVs,Number,21935
+THA10C1,Vehicle Population,2016,2016,60,Large PSVs,Number,9539
+THA10C1,Vehicle Population,2016,2016,70,Exempt vehicles,Number,27742
+THA10C1,Vehicle Population,2016,2016,80,Other vehicles,Number,68479
+THA10C1,Vehicle Population,2017,2017,-,All vehicle types,Number,2684730
+THA10C1,Vehicle Population,2017,2017,10,Private cars,Number,2079345
+THA10C1,Vehicle Population,2017,2017,20,Goods vehicles,Number,347447
+THA10C1,Vehicle Population,2017,2017,30,Motor cycles,Number,39046
+THA10C1,Vehicle Population,2017,2017,40,Tractors & Machinery,Number,88378
+THA10C1,Vehicle Population,2017,2017,50,Small PSVs,Number,21544
+THA10C1,Vehicle Population,2017,2017,60,Large PSVs,Number,10090
+THA10C1,Vehicle Population,2017,2017,70,Exempt vehicles,Number,28702
+THA10C1,Vehicle Population,2017,2017,80,Other vehicles,Number,70178
+THA10C1,Vehicle Population,2018,2018,-,All vehicle types,Number,2729001
+THA10C1,Vehicle Population,2018,2018,10,Private cars,Number,2117463
+THA10C1,Vehicle Population,2018,2018,20,Goods vehicles,Number,354458
+THA10C1,Vehicle Population,2018,2018,30,Motor cycles,Number,39851
+THA10C1,Vehicle Population,2018,2018,40,Tractors & Machinery,Number,85820
+THA10C1,Vehicle Population,2018,2018,50,Small PSVs,Number,21319
+THA10C1,Vehicle Population,2018,2018,60,Large PSVs,Number,10695
+THA10C1,Vehicle Population,2018,2018,70,Exempt vehicles,Number,29040
+THA10C1,Vehicle Population,2018,2018,80,Other vehicles,Number,70355
+THA10C1,Vehicle Population,2019,2019,-,All vehicle types,Number,2790778
+THA10C1,Vehicle Population,2019,2019,10,Private cars,Number,2168099
+THA10C1,Vehicle Population,2019,2019,20,Goods vehicles,Number,362699
+THA10C1,Vehicle Population,2019,2019,30,Motor cycles,Number,41471
+THA10C1,Vehicle Population,2019,2019,40,Tractors & Machinery,Number,84170
+THA10C1,Vehicle Population,2019,2019,50,Small PSVs,Number,21457
+THA10C1,Vehicle Population,2019,2019,60,Large PSVs,Number,11206
+THA10C1,Vehicle Population,2019,2019,70,Exempt vehicles,Number,29619
+THA10C1,Vehicle Population,2019,2019,80,Other vehicles,Number,72057
+THA10C1,Vehicle Population,2020,2020,-,All vehicle types,Number,2848023
+THA10C1,Vehicle Population,2020,2020,10,Private cars,Number,2211416
+THA10C1,Vehicle Population,2020,2020,20,Goods vehicles,Number,372145
+THA10C1,Vehicle Population,2020,2020,30,Motor cycles,Number,43491
+THA10C1,Vehicle Population,2020,2020,40,Tractors & Machinery,Number,85504
+THA10C1,Vehicle Population,2020,2020,50,Small PSVs,Number,19989
+THA10C1,Vehicle Population,2020,2020,60,Large PSVs,Number,10833
+THA10C1,Vehicle Population,2020,2020,70,Exempt vehicles,Number,29820
+THA10C1,Vehicle Population,2020,2020,80,Other vehicles,Number,74824
+THA10C1,Vehicle Population,2021,2021,-,All vehicle types,Number,2901404
+THA10C1,Vehicle Population,2021,2021,10,Private cars,Number,2248916
+THA10C1,Vehicle Population,2021,2021,20,Goods vehicles,Number,382144
+THA10C1,Vehicle Population,2021,2021,30,Motor cycles,Number,45853
+THA10C1,Vehicle Population,2021,2021,40,Tractors & Machinery,Number,86469
+THA10C1,Vehicle Population,2021,2021,50,Small PSVs,Number,18108
+THA10C1,Vehicle Population,2021,2021,60,Large PSVs,Number,10639
+THA10C1,Vehicle Population,2021,2021,70,Exempt vehicles,Number,29933
+THA10C1,Vehicle Population,2021,2021,80,Other vehicles,Number,79342
+THA10C1,Vehicle Population,2022,2022,-,All vehicle types,Number,2927550
+THA10C1,Vehicle Population,2022,2022,10,Private cars,Number,2266198
+THA10C1,Vehicle Population,2022,2022,20,Goods vehicles,Number,387723
+THA10C1,Vehicle Population,2022,2022,30,Motor cycles,Number,47056
+THA10C1,Vehicle Population,2022,2022,40,Tractors & Machinery,Number,83780
+THA10C1,Vehicle Population,2022,2022,50,Small PSVs,Number,17819
+THA10C1,Vehicle Population,2022,2022,60,Large PSVs,Number,11380
+THA10C1,Vehicle Population,2022,2022,70,Exempt vehicles,Number,30356
+THA10C1,Vehicle Population,2022,2022,80,Other vehicles,Number,83238
+THA10C1,Vehicle Population,2023,2023,-,All vehicle types,Number,2983209
+THA10C1,Vehicle Population,2023,2023,10,Private cars,Number,2311503
+THA10C1,Vehicle Population,2023,2023,20,Goods vehicles,Number,395129
+THA10C1,Vehicle Population,2023,2023,30,Motor cycles,Number,47938
+THA10C1,Vehicle Population,2023,2023,40,Tractors & Machinery,Number,81559
+THA10C1,Vehicle Population,2023,2023,50,Small PSVs,Number,17894
+THA10C1,Vehicle Population,2023,2023,60,Large PSVs,Number,11934
+THA10C1,Vehicle Population,2023,2023,70,Exempt vehicles,Number,30978
+THA10C1,Vehicle Population,2023,2023,80,Other vehicles,Number,86275
+THA10C2,Kilometres Travelled,2000,2000,-,All vehicle types,Million,30483
+THA10C2,Kilometres Travelled,2000,2000,10,Private cars,Million,23072
+THA10C2,Kilometres Travelled,2000,2000,20,Goods vehicles,Million,4687
+THA10C2,Kilometres Travelled,2000,2000,30,Motor cycles,Million,105
+THA10C2,Kilometres Travelled,2000,2000,40,Tractors & Machinery,Million,1396
+THA10C2,Kilometres Travelled,2000,2000,50,Small PSVs,Million,549
+THA10C2,Kilometres Travelled,2000,2000,60,Large PSVs,Million,256
+THA10C2,Kilometres Travelled,2000,2000,70,Exempt vehicles,Million,222
+THA10C2,Kilometres Travelled,2000,2000,80,Other vehicles,Million,194
+THA10C2,Kilometres Travelled,2001,2001,-,All vehicle types,Million,32272
+THA10C2,Kilometres Travelled,2001,2001,10,Private cars,Million,24306
+THA10C2,Kilometres Travelled,2001,2001,20,Goods vehicles,Million,5095
+THA10C2,Kilometres Travelled,2001,2001,30,Motor cycles,Million,118
+THA10C2,Kilometres Travelled,2001,2001,40,Tractors & Machinery,Million,1390
+THA10C2,Kilometres Travelled,2001,2001,50,Small PSVs,Million,626
+THA10C2,Kilometres Travelled,2001,2001,60,Large PSVs,Million,268
+THA10C2,Kilometres Travelled,2001,2001,70,Exempt vehicles,Million,248
+THA10C2,Kilometres Travelled,2001,2001,80,Other vehicles,Million,221
+THA10C2,Kilometres Travelled,2002,2002,-,All vehicle types,Million,33533
+THA10C2,Kilometres Travelled,2002,2002,10,Private cars,Million,25192
+THA10C2,Kilometres Travelled,2002,2002,20,Goods vehicles,Million,5367
+THA10C2,Kilometres Travelled,2002,2002,30,Motor cycles,Million,121
+THA10C2,Kilometres Travelled,2002,2002,40,Tractors & Machinery,Million,1377
+THA10C2,Kilometres Travelled,2002,2002,50,Small PSVs,Million,714
+THA10C2,Kilometres Travelled,2002,2002,60,Large PSVs,Million,267
+THA10C2,Kilometres Travelled,2002,2002,70,Exempt vehicles,Million,265
+THA10C2,Kilometres Travelled,2002,2002,80,Other vehicles,Million,229
+THA10C2,Kilometres Travelled,2003,2003,-,All vehicle types,Million,35606
+THA10C2,Kilometres Travelled,2003,2003,10,Private cars,Million,26633
+THA10C2,Kilometres Travelled,2003,2003,20,Goods vehicles,Million,5819
+THA10C2,Kilometres Travelled,2003,2003,30,Motor cycles,Million,127
+THA10C2,Kilometres Travelled,2003,2003,40,Tractors & Machinery,Million,1421
+THA10C2,Kilometres Travelled,2003,2003,50,Small PSVs,Million,792
+THA10C2,Kilometres Travelled,2003,2003,60,Large PSVs,Million,277
+THA10C2,Kilometres Travelled,2003,2003,70,Exempt vehicles,Million,287
+THA10C2,Kilometres Travelled,2003,2003,80,Other vehicles,Million,249
+THA10C2,Kilometres Travelled,2004,2004,-,All vehicle types,Million,38154
+THA10C2,Kilometres Travelled,2004,2004,10,Private cars,Million,28418
+THA10C2,Kilometres Travelled,2004,2004,20,Goods vehicles,Million,6367
+THA10C2,Kilometres Travelled,2004,2004,30,Motor cycles,Million,133
+THA10C2,Kilometres Travelled,2004,2004,40,Tractors & Machinery,Million,1476
+THA10C2,Kilometres Travelled,2004,2004,50,Small PSVs,Million,862
+THA10C2,Kilometres Travelled,2004,2004,60,Large PSVs,Million,289
+THA10C2,Kilometres Travelled,2004,2004,70,Exempt vehicles,Million,317
+THA10C2,Kilometres Travelled,2004,2004,80,Other vehicles,Million,292
+THA10C2,Kilometres Travelled,2005,2005,-,All vehicle types,Million,39777
+THA10C2,Kilometres Travelled,2005,2005,10,Private cars,Million,29586
+THA10C2,Kilometres Travelled,2005,2005,20,Goods vehicles,Million,6743
+THA10C2,Kilometres Travelled,2005,2005,30,Motor cycles,Million,130
+THA10C2,Kilometres Travelled,2005,2005,40,Tractors & Machinery,Million,1463
+THA10C2,Kilometres Travelled,2005,2005,50,Small PSVs,Million,897
+THA10C2,Kilometres Travelled,2005,2005,60,Large PSVs,Million,291
+THA10C2,Kilometres Travelled,2005,2005,70,Exempt vehicles,Million,341
+THA10C2,Kilometres Travelled,2005,2005,80,Other vehicles,Million,326
+THA10C2,Kilometres Travelled,2006,2006,-,All vehicle types,Million,41357
+THA10C2,Kilometres Travelled,2006,2006,10,Private cars,Million,30660
+THA10C2,Kilometres Travelled,2006,2006,20,Goods vehicles,Million,7190
+THA10C2,Kilometres Travelled,2006,2006,30,Motor cycles,Million,127
+THA10C2,Kilometres Travelled,2006,2006,40,Tractors & Machinery,Million,1446
+THA10C2,Kilometres Travelled,2006,2006,50,Small PSVs,Million,929
+THA10C2,Kilometres Travelled,2006,2006,60,Large PSVs,Million,295
+THA10C2,Kilometres Travelled,2006,2006,70,Exempt vehicles,Million,361
+THA10C2,Kilometres Travelled,2006,2006,80,Other vehicles,Million,348
+THA10C2,Kilometres Travelled,2007,2007,-,All vehicle types,Million,43368
+THA10C2,Kilometres Travelled,2007,2007,10,Private cars,Million,31973
+THA10C2,Kilometres Travelled,2007,2007,20,Goods vehicles,Million,7736
+THA10C2,Kilometres Travelled,2007,2007,30,Motor cycles,Million,130
+THA10C2,Kilometres Travelled,2007,2007,40,Tractors & Machinery,Million,1453
+THA10C2,Kilometres Travelled,2007,2007,50,Small PSVs,Million,1006
+THA10C2,Kilometres Travelled,2007,2007,60,Large PSVs,Million,305
+THA10C2,Kilometres Travelled,2007,2007,70,Exempt vehicles,Million,391
+THA10C2,Kilometres Travelled,2007,2007,80,Other vehicles,Million,374
+THA10C2,Kilometres Travelled,2008,2008,-,All vehicle types,Million,43721
+THA10C2,Kilometres Travelled,2008,2008,10,Private cars,Million,31450
+THA10C2,Kilometres Travelled,2008,2008,20,Goods vehicles,Million,7901
+THA10C2,Kilometres Travelled,2008,2008,30,Motor cycles,Million,159
+THA10C2,Kilometres Travelled,2008,2008,40,Tractors & Machinery,Million,1942
+THA10C2,Kilometres Travelled,2008,2008,50,Small PSVs,Million,1072
+THA10C2,Kilometres Travelled,2008,2008,60,Large PSVs,Million,310
+THA10C2,Kilometres Travelled,2008,2008,70,Exempt vehicles,Million,412
+THA10C2,Kilometres Travelled,2008,2008,80,Other vehicles,Million,475
+THA10C2,Kilometres Travelled,2009,2009,-,All vehicle types,Million,45110
+THA10C2,Kilometres Travelled,2009,2009,10,Private cars,Million,33391
+THA10C2,Kilometres Travelled,2009,2009,20,Goods vehicles,Million,7855
+THA10C2,Kilometres Travelled,2009,2009,30,Motor cycles,Million,135
+THA10C2,Kilometres Travelled,2009,2009,40,Tractors & Machinery,Million,1370
+THA10C2,Kilometres Travelled,2009,2009,50,Small PSVs,Million,945
+THA10C2,Kilometres Travelled,2009,2009,60,Large PSVs,Million,349
+THA10C2,Kilometres Travelled,2009,2009,70,Exempt vehicles,Million,504
+THA10C2,Kilometres Travelled,2009,2009,80,Other vehicles,Million,562
+THA10C2,Kilometres Travelled,2010,2010,-,All vehicle types,Million,42166
+THA10C2,Kilometres Travelled,2010,2010,10,Private cars,Million,31734
+THA10C2,Kilometres Travelled,2010,2010,20,Goods vehicles,Million,6870
+THA10C2,Kilometres Travelled,2010,2010,30,Motor cycles,Million,123
+THA10C2,Kilometres Travelled,2010,2010,40,Tractors & Machinery,Million,1263
+THA10C2,Kilometres Travelled,2010,2010,50,Small PSVs,Million,932
+THA10C2,Kilometres Travelled,2010,2010,60,Large PSVs,Million,310
+THA10C2,Kilometres Travelled,2010,2010,70,Exempt vehicles,Million,464
+THA10C2,Kilometres Travelled,2010,2010,80,Other vehicles,Million,470
+THA10C2,Kilometres Travelled,2011,2011,-,All vehicle types,Million,41681
+THA10C2,Kilometres Travelled,2011,2011,10,Private cars,Million,31638
+THA10C2,Kilometres Travelled,2011,2011,20,Goods vehicles,Million,6546
+THA10C2,Kilometres Travelled,2011,2011,30,Motor cycles,Million,114
+THA10C2,Kilometres Travelled,2011,2011,40,Tractors & Machinery,Million,1232
+THA10C2,Kilometres Travelled,2011,2011,50,Small PSVs,Million,970
+THA10C2,Kilometres Travelled,2011,2011,60,Large PSVs,Million,308
+THA10C2,Kilometres Travelled,2011,2011,70,Exempt vehicles,Million,460
+THA10C2,Kilometres Travelled,2011,2011,80,Other vehicles,Million,413
+THA10C2,Kilometres Travelled,2012,2012,-,All vehicle types,Million,40648
+THA10C2,Kilometres Travelled,2012,2012,10,Private cars,Million,31076
+THA10C2,Kilometres Travelled,2012,2012,20,Goods vehicles,Million,6167
+THA10C2,Kilometres Travelled,2012,2012,30,Motor cycles,Million,106
+THA10C2,Kilometres Travelled,2012,2012,40,Tractors & Machinery,Million,1310
+THA10C2,Kilometres Travelled,2012,2012,50,Small PSVs,Million,860
+THA10C2,Kilometres Travelled,2012,2012,60,Large PSVs,Million,298
+THA10C2,Kilometres Travelled,2012,2012,70,Exempt vehicles,Million,455
+THA10C2,Kilometres Travelled,2012,2012,80,Other vehicles,Million,378
+THA10C2,Kilometres Travelled,2013,2013,-,All vehicle types,Million,41757
+THA10C2,Kilometres Travelled,2013,2013,10,Private cars,Million,32031
+THA10C2,Kilometres Travelled,2013,2013,20,Goods vehicles,Million,6320
+THA10C2,Kilometres Travelled,2013,2013,30,Motor cycles,Million,103
+THA10C2,Kilometres Travelled,2013,2013,40,Tractors & Machinery,Million,1344
+THA10C2,Kilometres Travelled,2013,2013,50,Small PSVs,Million,873
+THA10C2,Kilometres Travelled,2013,2013,60,Large PSVs,Million,299
+THA10C2,Kilometres Travelled,2013,2013,70,Exempt vehicles,Million,442
+THA10C2,Kilometres Travelled,2013,2013,80,Other vehicles,Million,345
+THA10C2,Kilometres Travelled,2014,2014,-,All vehicle types,Million,43832
+THA10C2,Kilometres Travelled,2014,2014,10,Private cars,Million,32645
+THA10C2,Kilometres Travelled,2014,2014,20,Goods vehicles,Million,7259
+THA10C2,Kilometres Travelled,2014,2014,30,Motor cycles,Million,103
+THA10C2,Kilometres Travelled,2014,2014,40,Tractors & Machinery,Million,1647
+THA10C2,Kilometres Travelled,2014,2014,50,Small PSVs,Million,848
+THA10C2,Kilometres Travelled,2014,2014,60,Large PSVs,Million,309
+THA10C2,Kilometres Travelled,2014,2014,70,Exempt vehicles,Million,459
+THA10C2,Kilometres Travelled,2014,2014,80,Other vehicles,Million,561
+THA10C2,Kilometres Travelled,2015,2015,-,All vehicle types,Million,45790
+THA10C2,Kilometres Travelled,2015,2015,10,Private cars,Million,35020
+THA10C2,Kilometres Travelled,2015,2015,20,Goods vehicles,Million,7021
+THA10C2,Kilometres Travelled,2015,2015,30,Motor cycles,Million,102
+THA10C2,Kilometres Travelled,2015,2015,40,Tractors & Machinery,Million,1598
+THA10C2,Kilometres Travelled,2015,2015,50,Small PSVs,Million,854
+THA10C2,Kilometres Travelled,2015,2015,60,Large PSVs,Million,313
+THA10C2,Kilometres Travelled,2015,2015,70,Exempt vehicles,Million,448
+THA10C2,Kilometres Travelled,2015,2015,80,Other vehicles,Million,433
+THA10C2,Kilometres Travelled,2016,2016,-,All vehicle types,Million,47775
+THA10C2,Kilometres Travelled,2016,2016,10,Private cars,Million,36623
+THA10C2,Kilometres Travelled,2016,2016,20,Goods vehicles,Million,7410
+THA10C2,Kilometres Travelled,2016,2016,30,Motor cycles,Million,104
+THA10C2,Kilometres Travelled,2016,2016,40,Tractors & Machinery,Million,1577
+THA10C2,Kilometres Travelled,2016,2016,50,Small PSVs,Million,865
+THA10C2,Kilometres Travelled,2016,2016,60,Large PSVs,Million,329
+THA10C2,Kilometres Travelled,2016,2016,70,Exempt vehicles,Million,458
+THA10C2,Kilometres Travelled,2016,2016,80,Other vehicles,Million,409
+THA10C2,Kilometres Travelled,2017,2017,-,All vehicle types,Million,48754
+THA10C2,Kilometres Travelled,2017,2017,10,Private cars,Million,37181
+THA10C2,Kilometres Travelled,2017,2017,20,Goods vehicles,Million,7785
+THA10C2,Kilometres Travelled,2017,2017,30,Motor cycles,Million,108
+THA10C2,Kilometres Travelled,2017,2017,40,Tractors & Machinery,Million,1575
+THA10C2,Kilometres Travelled,2017,2017,50,Small PSVs,Million,858
+THA10C2,Kilometres Travelled,2017,2017,60,Large PSVs,Million,361
+THA10C2,Kilometres Travelled,2017,2017,70,Exempt vehicles,Million,462
+THA10C2,Kilometres Travelled,2017,2017,80,Other vehicles,Million,423
+THA10C2,Kilometres Travelled,2018,2018,-,All vehicle types,Million,47545
+THA10C2,Kilometres Travelled,2018,2018,10,Private cars,Million,35975
+THA10C2,Kilometres Travelled,2018,2018,20,Goods vehicles,Million,7891
+THA10C2,Kilometres Travelled,2018,2018,30,Motor cycles,Million,109
+THA10C2,Kilometres Travelled,2018,2018,40,Tractors & Machinery,Million,1485
+THA10C2,Kilometres Travelled,2018,2018,50,Small PSVs,Million,842
+THA10C2,Kilometres Travelled,2018,2018,60,Large PSVs,Million,386
+THA10C2,Kilometres Travelled,2018,2018,70,Exempt vehicles,Million,450
+THA10C2,Kilometres Travelled,2018,2018,80,Other vehicles,Million,407
+THA10C2,Kilometres Travelled,2019,2019,-,All vehicle types,Million,47072
+THA10C2,Kilometres Travelled,2019,2019,10,Private cars,Million,35453
+THA10C2,Kilometres Travelled,2019,2019,20,Goods vehicles,Million,8023
+THA10C2,Kilometres Travelled,2019,2019,30,Motor cycles,Million,114
+THA10C2,Kilometres Travelled,2019,2019,40,Tractors & Machinery,Million,1402
+THA10C2,Kilometres Travelled,2019,2019,50,Small PSVs,Million,848
+THA10C2,Kilometres Travelled,2019,2019,60,Large PSVs,Million,392
+THA10C2,Kilometres Travelled,2019,2019,70,Exempt vehicles,Million,438
+THA10C2,Kilometres Travelled,2019,2019,80,Other vehicles,Million,403
+THA10C2,Kilometres Travelled,2020,2020,-,All vehicle types,Million,36237
+THA10C2,Kilometres Travelled,2020,2020,10,Private cars,Million,26102
+THA10C2,Kilometres Travelled,2020,2020,20,Goods vehicles,Million,7283
+THA10C2,Kilometres Travelled,2020,2020,30,Motor cycles,Million,101
+THA10C2,Kilometres Travelled,2020,2020,40,Tractors & Machinery,Million,1289
+THA10C2,Kilometres Travelled,2020,2020,50,Small PSVs,Million,552
+THA10C2,Kilometres Travelled,2020,2020,60,Large PSVs,Million,271
+THA10C2,Kilometres Travelled,2020,2020,70,Exempt vehicles,Million,327
+THA10C2,Kilometres Travelled,2020,2020,80,Other vehicles,Million,312
+THA10C2,Kilometres Travelled,2021,2021,-,All vehicle types,Million,41878
+THA10C2,Kilometres Travelled,2021,2021,10,Private cars,Million,30216
+THA10C2,Kilometres Travelled,2021,2021,20,Goods vehicles,Million,8812
+THA10C2,Kilometres Travelled,2021,2021,30,Motor cycles,Million,111
+THA10C2,Kilometres Travelled,2021,2021,40,Tractors & Machinery,Million,1253
+THA10C2,Kilometres Travelled,2021,2021,50,Small PSVs,Million,461
+THA10C2,Kilometres Travelled,2021,2021,60,Large PSVs,Million,260
+THA10C2,Kilometres Travelled,2021,2021,70,Exempt vehicles,Million,381
+THA10C2,Kilometres Travelled,2021,2021,80,Other vehicles,Million,384
+THA10C2,Kilometres Travelled,2022,2022,-,All vehicle types,Million,47604
+THA10C2,Kilometres Travelled,2022,2022,10,Private cars,Million,34952
+THA10C2,Kilometres Travelled,2022,2022,20,Goods vehicles,Million,9356
+THA10C2,Kilometres Travelled,2022,2022,30,Motor cycles,Million,114
+THA10C2,Kilometres Travelled,2022,2022,40,Tractors & Machinery,Million,1309
+THA10C2,Kilometres Travelled,2022,2022,50,Small PSVs,Million,631
+THA10C2,Kilometres Travelled,2022,2022,60,Large PSVs,Million,329
+THA10C2,Kilometres Travelled,2022,2022,70,Exempt vehicles,Million,439
+THA10C2,Kilometres Travelled,2022,2022,80,Other vehicles,Million,474
+THA10C2,Kilometres Travelled,2023,2023,-,All vehicle types,Million,47296
+THA10C2,Kilometres Travelled,2023,2023,10,Private cars,Million,35126
+THA10C2,Kilometres Travelled,2023,2023,20,Goods vehicles,Million,8775
+THA10C2,Kilometres Travelled,2023,2023,30,Motor cycles,Million,127
+THA10C2,Kilometres Travelled,2023,2023,40,Tractors & Machinery,Million,1269
+THA10C2,Kilometres Travelled,2023,2023,50,Small PSVs,Million,694
+THA10C2,Kilometres Travelled,2023,2023,60,Large PSVs,Million,419
+THA10C2,Kilometres Travelled,2023,2023,70,Exempt vehicles,Million,430
+THA10C2,Kilometres Travelled,2023,2023,80,Other vehicles,Million,458
+THA10C3,Average Kilometres Travelled,2000,2000,-,All vehicle types,Kilometres,18289
+THA10C3,Average Kilometres Travelled,2000,2000,10,Private cars,Kilometres,17558
+THA10C3,Average Kilometres Travelled,2000,2000,20,Goods vehicles,Kilometres,23524
+THA10C3,Average Kilometres Travelled,2000,2000,30,Motor cycles,Kilometres,3702
+THA10C3,Average Kilometres Travelled,2000,2000,40,Tractors & Machinery,Kilometres,18813
+THA10C3,Average Kilometres Travelled,2000,2000,50,Small PSVs,Kilometres,39289
+THA10C3,Average Kilometres Travelled,2000,2000,60,Large PSVs,Kilometres,38022
+THA10C3,Average Kilometres Travelled,2000,2000,70,Exempt vehicles,Kilometres,17872
+THA10C3,Average Kilometres Travelled,2000,2000,80,Other vehicles,Kilometres,11069
+THA10C3,Average Kilometres Travelled,2001,2001,-,All vehicle types,Kilometres,18456
+THA10C3,Average Kilometres Travelled,2001,2001,10,Private cars,Kilometres,17707
+THA10C3,Average Kilometres Travelled,2001,2001,20,Goods vehicles,Kilometres,23724
+THA10C3,Average Kilometres Travelled,2001,2001,30,Motor cycles,Kilometres,3733
+THA10C3,Average Kilometres Travelled,2001,2001,40,Tractors & Machinery,Kilometres,18973
+THA10C3,Average Kilometres Travelled,2001,2001,50,Small PSVs,Kilometres,39623
+THA10C3,Average Kilometres Travelled,2001,2001,60,Large PSVs,Kilometres,38345
+THA10C3,Average Kilometres Travelled,2001,2001,70,Exempt vehicles,Kilometres,18024
+THA10C3,Average Kilometres Travelled,2001,2001,80,Other vehicles,Kilometres,11164
+THA10C3,Average Kilometres Travelled,2002,2002,-,All vehicle types,Kilometres,18287
+THA10C3,Average Kilometres Travelled,2002,2002,10,Private cars,Kilometres,17519
+THA10C3,Average Kilometres Travelled,2002,2002,20,Goods vehicles,Kilometres,23472
+THA10C3,Average Kilometres Travelled,2002,2002,30,Motor cycles,Kilometres,3694
+THA10C3,Average Kilometres Travelled,2002,2002,40,Tractors & Machinery,Kilometres,18771
+THA10C3,Average Kilometres Travelled,2002,2002,50,Small PSVs,Kilometres,39202
+THA10C3,Average Kilometres Travelled,2002,2002,60,Large PSVs,Kilometres,37938
+THA10C3,Average Kilometres Travelled,2002,2002,70,Exempt vehicles,Kilometres,17833
+THA10C3,Average Kilometres Travelled,2002,2002,80,Other vehicles,Kilometres,11045
+THA10C3,Average Kilometres Travelled,2003,2003,-,All vehicle types,Kilometres,18557
+THA10C3,Average Kilometres Travelled,2003,2003,10,Private cars,Kilometres,17754
+THA10C3,Average Kilometres Travelled,2003,2003,20,Goods vehicles,Kilometres,23786
+THA10C3,Average Kilometres Travelled,2003,2003,30,Motor cycles,Kilometres,3743
+THA10C3,Average Kilometres Travelled,2003,2003,40,Tractors & Machinery,Kilometres,19022
+THA10C3,Average Kilometres Travelled,2003,2003,50,Small PSVs,Kilometres,39727
+THA10C3,Average Kilometres Travelled,2003,2003,60,Large PSVs,Kilometres,38446
+THA10C3,Average Kilometres Travelled,2003,2003,70,Exempt vehicles,Kilometres,18071
+THA10C3,Average Kilometres Travelled,2003,2003,80,Other vehicles,Kilometres,11193
+THA10C3,Average Kilometres Travelled,2004,2004,-,All vehicle types,Kilometres,18953
+THA10C3,Average Kilometres Travelled,2004,2004,10,Private cars,Kilometres,18117
+THA10C3,Average Kilometres Travelled,2004,2004,20,Goods vehicles,Kilometres,24272
+THA10C3,Average Kilometres Travelled,2004,2004,30,Motor cycles,Kilometres,3820
+THA10C3,Average Kilometres Travelled,2004,2004,40,Tractors & Machinery,Kilometres,19411
+THA10C3,Average Kilometres Travelled,2004,2004,50,Small PSVs,Kilometres,40539
+THA10C3,Average Kilometres Travelled,2004,2004,60,Large PSVs,Kilometres,39232
+THA10C3,Average Kilometres Travelled,2004,2004,70,Exempt vehicles,Kilometres,18441
+THA10C3,Average Kilometres Travelled,2004,2004,80,Other vehicles,Kilometres,11422
+THA10C3,Average Kilometres Travelled,2005,2005,-,All vehicle types,Kilometres,18806
+THA10C3,Average Kilometres Travelled,2005,2005,10,Private cars,Kilometres,17960
+THA10C3,Average Kilometres Travelled,2005,2005,20,Goods vehicles,Kilometres,24063
+THA10C3,Average Kilometres Travelled,2005,2005,30,Motor cycles,Kilometres,3787
+THA10C3,Average Kilometres Travelled,2005,2005,40,Tractors & Machinery,Kilometres,19243
+THA10C3,Average Kilometres Travelled,2005,2005,50,Small PSVs,Kilometres,40189
+THA10C3,Average Kilometres Travelled,2005,2005,60,Large PSVs,Kilometres,38893
+THA10C3,Average Kilometres Travelled,2005,2005,70,Exempt vehicles,Kilometres,18281
+THA10C3,Average Kilometres Travelled,2005,2005,80,Other vehicles,Kilometres,11323
+THA10C3,Average Kilometres Travelled,2006,2006,-,All vehicle types,Kilometres,18406
+THA10C3,Average Kilometres Travelled,2006,2006,10,Private cars,Kilometres,17552
+THA10C3,Average Kilometres Travelled,2006,2006,20,Goods vehicles,Kilometres,23516
+THA10C3,Average Kilometres Travelled,2006,2006,30,Motor cycles,Kilometres,3701
+THA10C3,Average Kilometres Travelled,2006,2006,40,Tractors & Machinery,Kilometres,18806
+THA10C3,Average Kilometres Travelled,2006,2006,50,Small PSVs,Kilometres,39275
+THA10C3,Average Kilometres Travelled,2006,2006,60,Large PSVs,Kilometres,38009
+THA10C3,Average Kilometres Travelled,2006,2006,70,Exempt vehicles,Kilometres,17866
+THA10C3,Average Kilometres Travelled,2006,2006,80,Other vehicles,Kilometres,11065
+THA10C3,Average Kilometres Travelled,2007,2007,-,All vehicle types,Kilometres,18067
+THA10C3,Average Kilometres Travelled,2007,2007,10,Private cars,Kilometres,17200
+THA10C3,Average Kilometres Travelled,2007,2007,20,Goods vehicles,Kilometres,23044
+THA10C3,Average Kilometres Travelled,2007,2007,30,Motor cycles,Kilometres,3626
+THA10C3,Average Kilometres Travelled,2007,2007,40,Tractors & Machinery,Kilometres,18429
+THA10C3,Average Kilometres Travelled,2007,2007,50,Small PSVs,Kilometres,38487
+THA10C3,Average Kilometres Travelled,2007,2007,60,Large PSVs,Kilometres,37246
+THA10C3,Average Kilometres Travelled,2007,2007,70,Exempt vehicles,Kilometres,17507
+THA10C3,Average Kilometres Travelled,2007,2007,80,Other vehicles,Kilometres,10844
+THA10C3,Average Kilometres Travelled,2008,2008,-,All vehicle types,Kilometres,17472
+THA10C3,Average Kilometres Travelled,2008,2008,10,Private cars,Kilometres,16272
+THA10C3,Average Kilometres Travelled,2008,2008,20,Goods vehicles,Kilometres,22432
+THA10C3,Average Kilometres Travelled,2008,2008,30,Motor cycles,Kilometres,4186
+THA10C3,Average Kilometres Travelled,2008,2008,40,Tractors & Machinery,Kilometres,24452
+THA10C3,Average Kilometres Travelled,2008,2008,50,Small PSVs,Kilometres,36758
+THA10C3,Average Kilometres Travelled,2008,2008,60,Large PSVs,Kilometres,35920
+THA10C3,Average Kilometres Travelled,2008,2008,70,Exempt vehicles,Kilometres,16888
+THA10C3,Average Kilometres Travelled,2008,2008,80,Other vehicles,Kilometres,12570
+THA10C3,Average Kilometres Travelled,2009,2009,-,All vehicle types,Kilometres,18197
+THA10C3,Average Kilometres Travelled,2009,2009,10,Private cars,Kilometres,17437
+THA10C3,Average Kilometres Travelled,2009,2009,20,Goods vehicles,Kilometres,22789
+THA10C3,Average Kilometres Travelled,2009,2009,30,Motor cycles,Kilometres,3472
+THA10C3,Average Kilometres Travelled,2009,2009,40,Tractors & Machinery,Kilometres,18019
+THA10C3,Average Kilometres Travelled,2009,2009,50,Small PSVs,Kilometres,32630
+THA10C3,Average Kilometres Travelled,2009,2009,60,Large PSVs,Kilometres,40255
+THA10C3,Average Kilometres Travelled,2009,2009,70,Exempt vehicles,Kilometres,19670
+THA10C3,Average Kilometres Travelled,2009,2009,80,Other vehicles,Kilometres,13578
+THA10C3,Average Kilometres Travelled,2010,2010,-,All vehicle types,Kilometres,17297
+THA10C3,Average Kilometres Travelled,2010,2010,10,Private cars,Kilometres,16789
+THA10C3,Average Kilometres Travelled,2010,2010,20,Goods vehicles,Kilometres,20707
+THA10C3,Average Kilometres Travelled,2010,2010,30,Motor cycles,Kilometres,3238
+THA10C3,Average Kilometres Travelled,2010,2010,40,Tractors & Machinery,Kilometres,17536
+THA10C3,Average Kilometres Travelled,2010,2010,50,Small PSVs,Kilometres,33804
+THA10C3,Average Kilometres Travelled,2010,2010,60,Large PSVs,Kilometres,36984
+THA10C3,Average Kilometres Travelled,2010,2010,70,Exempt vehicles,Kilometres,18129
+THA10C3,Average Kilometres Travelled,2010,2010,80,Other vehicles,Kilometres,10627
+THA10C3,Average Kilometres Travelled,2011,2011,-,All vehicle types,Kilometres,17227
+THA10C3,Average Kilometres Travelled,2011,2011,10,Private cars,Kilometres,16771
+THA10C3,Average Kilometres Travelled,2011,2011,20,Goods vehicles,Kilometres,20487
+THA10C3,Average Kilometres Travelled,2011,2011,30,Motor cycles,Kilometres,3125
+THA10C3,Average Kilometres Travelled,2011,2011,40,Tractors & Machinery,Kilometres,17480
+THA10C3,Average Kilometres Travelled,2011,2011,50,Small PSVs,Kilometres,37233
+THA10C3,Average Kilometres Travelled,2011,2011,60,Large PSVs,Kilometres,37578
+THA10C3,Average Kilometres Travelled,2011,2011,70,Exempt vehicles,Kilometres,17556
+THA10C3,Average Kilometres Travelled,2011,2011,80,Other vehicles,Kilometres,8954
+THA10C3,Average Kilometres Travelled,2012,2012,-,All vehicle types,Kilometres,16784
+THA10C3,Average Kilometres Travelled,2012,2012,10,Private cars,Kilometres,16388
+THA10C3,Average Kilometres Travelled,2012,2012,20,Goods vehicles,Kilometres,19711
+THA10C3,Average Kilometres Travelled,2012,2012,30,Motor cycles,Kilometres,2996
+THA10C3,Average Kilometres Travelled,2012,2012,40,Tractors & Machinery,Kilometres,18633
+THA10C3,Average Kilometres Travelled,2012,2012,50,Small PSVs,Kilometres,34698
+THA10C3,Average Kilometres Travelled,2012,2012,60,Large PSVs,Kilometres,36148
+THA10C3,Average Kilometres Travelled,2012,2012,70,Exempt vehicles,Kilometres,17427
+THA10C3,Average Kilometres Travelled,2012,2012,80,Other vehicles,Kilometres,7884
+THA10C3,Average Kilometres Travelled,2013,2013,-,All vehicle types,Kilometres,16949
+THA10C3,Average Kilometres Travelled,2013,2013,10,Private cars,Kilometres,16736
+THA10C3,Average Kilometres Travelled,2013,2013,20,Goods vehicles,Kilometres,20220
+THA10C3,Average Kilometres Travelled,2013,2013,30,Motor cycles,Kilometres,2887
+THA10C3,Average Kilometres Travelled,2013,2013,40,Tractors & Machinery,Kilometres,15665
+THA10C3,Average Kilometres Travelled,2013,2013,50,Small PSVs,Kilometres,36994
+THA10C3,Average Kilometres Travelled,2013,2013,60,Large PSVs,Kilometres,36014
+THA10C3,Average Kilometres Travelled,2013,2013,70,Exempt vehicles,Kilometres,16880
+THA10C3,Average Kilometres Travelled,2013,2013,80,Other vehicles,Kilometres,5981
+THA10C3,Average Kilometres Travelled,2014,2014,-,All vehicle types,Kilometres,17384
+THA10C3,Average Kilometres Travelled,2014,2014,10,Private cars,Kilometres,16740
+THA10C3,Average Kilometres Travelled,2014,2014,20,Goods vehicles,Kilometres,22923
+THA10C3,Average Kilometres Travelled,2014,2014,30,Motor cycles,Kilometres,2835
+THA10C3,Average Kilometres Travelled,2014,2014,40,Tractors & Machinery,Kilometres,17228
+THA10C3,Average Kilometres Travelled,2014,2014,50,Small PSVs,Kilometres,37041
+THA10C3,Average Kilometres Travelled,2014,2014,60,Large PSVs,Kilometres,35793
+THA10C3,Average Kilometres Travelled,2014,2014,70,Exempt vehicles,Kilometres,17519
+THA10C3,Average Kilometres Travelled,2014,2014,80,Other vehicles,Kilometres,8646
+THA10C3,Average Kilometres Travelled,2015,2015,-,All vehicle types,Kilometres,17790
+THA10C3,Average Kilometres Travelled,2015,2015,10,Private cars,Kilometres,17573
+THA10C3,Average Kilometres Travelled,2015,2015,20,Goods vehicles,Kilometres,21519
+THA10C3,Average Kilometres Travelled,2015,2015,30,Motor cycles,Kilometres,2775
+THA10C3,Average Kilometres Travelled,2015,2015,40,Tractors & Machinery,Kilometres,17298
+THA10C3,Average Kilometres Travelled,2015,2015,50,Small PSVs,Kilometres,38099
+THA10C3,Average Kilometres Travelled,2015,2015,60,Large PSVs,Kilometres,34662
+THA10C3,Average Kilometres Travelled,2015,2015,70,Exempt vehicles,Kilometres,16580
+THA10C3,Average Kilometres Travelled,2015,2015,80,Other vehicles,Kilometres,6442
+THA10C3,Average Kilometres Travelled,2016,2016,-,All vehicle types,Kilometres,18158
+THA10C3,Average Kilometres Travelled,2016,2016,10,Private cars,Kilometres,17968
+THA10C3,Average Kilometres Travelled,2016,2016,20,Goods vehicles,Kilometres,21896
+THA10C3,Average Kilometres Travelled,2016,2016,30,Motor cycles,Kilometres,2770
+THA10C3,Average Kilometres Travelled,2016,2016,40,Tractors & Machinery,Kilometres,17677
+THA10C3,Average Kilometres Travelled,2016,2016,50,Small PSVs,Kilometres,39443
+THA10C3,Average Kilometres Travelled,2016,2016,60,Large PSVs,Kilometres,34526
+THA10C3,Average Kilometres Travelled,2016,2016,70,Exempt vehicles,Kilometres,16498
+THA10C3,Average Kilometres Travelled,2016,2016,80,Other vehicles,Kilometres,5970
+THA10C3,Average Kilometres Travelled,2017,2017,-,All vehicle types,Kilometres,18160
+THA10C3,Average Kilometres Travelled,2017,2017,10,Private cars,Kilometres,17881
+THA10C3,Average Kilometres Travelled,2017,2017,20,Goods vehicles,Kilometres,22407
+THA10C3,Average Kilometres Travelled,2017,2017,30,Motor cycles,Kilometres,2753
+THA10C3,Average Kilometres Travelled,2017,2017,40,Tractors & Machinery,Kilometres,17826
+THA10C3,Average Kilometres Travelled,2017,2017,50,Small PSVs,Kilometres,39845
+THA10C3,Average Kilometres Travelled,2017,2017,60,Large PSVs,Kilometres,35795
+THA10C3,Average Kilometres Travelled,2017,2017,70,Exempt vehicles,Kilometres,16105
+THA10C3,Average Kilometres Travelled,2017,2017,80,Other vehicles,Kilometres,6025
+THA10C3,Average Kilometres Travelled,2018,2018,-,All vehicle types,Kilometres,17422
+THA10C3,Average Kilometres Travelled,2018,2018,10,Private cars,Kilometres,16990
+THA10C3,Average Kilometres Travelled,2018,2018,20,Goods vehicles,Kilometres,22263
+THA10C3,Average Kilometres Travelled,2018,2018,30,Motor cycles,Kilometres,2731
+THA10C3,Average Kilometres Travelled,2018,2018,40,Tractors & Machinery,Kilometres,17300
+THA10C3,Average Kilometres Travelled,2018,2018,50,Small PSVs,Kilometres,39501
+THA10C3,Average Kilometres Travelled,2018,2018,60,Large PSVs,Kilometres,36095
+THA10C3,Average Kilometres Travelled,2018,2018,70,Exempt vehicles,Kilometres,15490
+THA10C3,Average Kilometres Travelled,2018,2018,80,Other vehicles,Kilometres,5789
+THA10C3,Average Kilometres Travelled,2019,2019,-,All vehicle types,Kilometres,16867
+THA10C3,Average Kilometres Travelled,2019,2019,10,Private cars,Kilometres,16352
+THA10C3,Average Kilometres Travelled,2019,2019,20,Goods vehicles,Kilometres,22121
+THA10C3,Average Kilometres Travelled,2019,2019,30,Motor cycles,Kilometres,2741
+THA10C3,Average Kilometres Travelled,2019,2019,40,Tractors & Machinery,Kilometres,16653
+THA10C3,Average Kilometres Travelled,2019,2019,50,Small PSVs,Kilometres,39504
+THA10C3,Average Kilometres Travelled,2019,2019,60,Large PSVs,Kilometres,34965
+THA10C3,Average Kilometres Travelled,2019,2019,70,Exempt vehicles,Kilometres,14799
+THA10C3,Average Kilometres Travelled,2019,2019,80,Other vehicles,Kilometres,5592
+THA10C3,Average Kilometres Travelled,2020,2020,-,All vehicle types,Kilometres,12723
+THA10C3,Average Kilometres Travelled,2020,2020,10,Private cars,Kilometres,11803
+THA10C3,Average Kilometres Travelled,2020,2020,20,Goods vehicles,Kilometres,19571
+THA10C3,Average Kilometres Travelled,2020,2020,30,Motor cycles,Kilometres,2328
+THA10C3,Average Kilometres Travelled,2020,2020,40,Tractors & Machinery,Kilometres,15078
+THA10C3,Average Kilometres Travelled,2020,2020,50,Small PSVs,Kilometres,27626
+THA10C3,Average Kilometres Travelled,2020,2020,60,Large PSVs,Kilometres,24976
+THA10C3,Average Kilometres Travelled,2020,2020,70,Exempt vehicles,Kilometres,10953
+THA10C3,Average Kilometres Travelled,2020,2020,80,Other vehicles,Kilometres,4165
+THA10C3,Average Kilometres Travelled,2021,2021,-,All vehicle types,Kilometres,14434
+THA10C3,Average Kilometres Travelled,2021,2021,10,Private cars,Kilometres,13436
+THA10C3,Average Kilometres Travelled,2021,2021,20,Goods vehicles,Kilometres,23059
+THA10C3,Average Kilometres Travelled,2021,2021,30,Motor cycles,Kilometres,2421
+THA10C3,Average Kilometres Travelled,2021,2021,40,Tractors & Machinery,Kilometres,14489
+THA10C3,Average Kilometres Travelled,2021,2021,50,Small PSVs,Kilometres,25470
+THA10C3,Average Kilometres Travelled,2021,2021,60,Large PSVs,Kilometres,24469
+THA10C3,Average Kilometres Travelled,2021,2021,70,Exempt vehicles,Kilometres,12717
+THA10C3,Average Kilometres Travelled,2021,2021,80,Other vehicles,Kilometres,4841
+THA10C3,Average Kilometres Travelled,2022,2022,-,All vehicle types,Kilometres,16261
+THA10C3,Average Kilometres Travelled,2022,2022,10,Private cars,Kilometres,15423
+THA10C3,Average Kilometres Travelled,2022,2022,20,Goods vehicles,Kilometres,24131
+THA10C3,Average Kilometres Travelled,2022,2022,30,Motor cycles,Kilometres,2425
+THA10C3,Average Kilometres Travelled,2022,2022,40,Tractors & Machinery,Kilometres,15628
+THA10C3,Average Kilometres Travelled,2022,2022,50,Small PSVs,Kilometres,35393
+THA10C3,Average Kilometres Travelled,2022,2022,60,Large PSVs,Kilometres,28872
+THA10C3,Average Kilometres Travelled,2022,2022,70,Exempt vehicles,Kilometres,14459
+THA10C3,Average Kilometres Travelled,2022,2022,80,Other vehicles,Kilometres,5691
+THA10C3,Average Kilometres Travelled,2023,2023,-,All vehicle types,Kilometres,15854
+THA10C3,Average Kilometres Travelled,2023,2023,10,Private cars,Kilometres,15196
+THA10C3,Average Kilometres Travelled,2023,2023,20,Goods vehicles,Kilometres,22207
+THA10C3,Average Kilometres Travelled,2023,2023,30,Motor cycles,Kilometres,2648
+THA10C3,Average Kilometres Travelled,2023,2023,40,Tractors & Machinery,Kilometres,15558
+THA10C3,Average Kilometres Travelled,2023,2023,50,Small PSVs,Kilometres,38785
+THA10C3,Average Kilometres Travelled,2023,2023,60,Large PSVs,Kilometres,35147
+THA10C3,Average Kilometres Travelled,2023,2023,70,Exempt vehicles,Kilometres,13865
+THA10C3,Average Kilometres Travelled,2023,2023,80,Other vehicles,Kilometres,5304
