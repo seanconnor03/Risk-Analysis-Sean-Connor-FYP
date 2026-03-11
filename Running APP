@@ -1,2 +1,0 @@
-Frontend -> npm run dev
-Backend -> activate environment venv\Scripts\activate, run server -> python main.py
