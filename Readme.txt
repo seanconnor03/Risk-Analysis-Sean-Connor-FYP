@@ -1,14 +1,14 @@
 Final year project, interactive web application to provide an analysis on the risk of death while undertaking a journey.
 
 Access main code is as follows:
-UI code  -> /risk-map/Frontend/src/App.jsx     
+UI code  -> /risk-map/Frontend/src/App.jsx
 Server side -> /risk-map/Backend/main.py
 
 Calculations contains all datasets used for acquiring micromort value.
 
 Code in report are sections from either App.jsx or main.py.
 
-API-KEY - https://api.openrouteservice.org/ , follow link, and generate key.
+API-KEY - API KEY , follow link, and generate key.
 
 Frontend (In terminal)  cd risk-map -> cd Frontend
 -Navigate to frontend.
@@ -19,7 +19,7 @@ Frontend (In terminal)  cd risk-map -> cd Frontend
 
 
 Backend (In terminal) cd risk-map -> cd Backend
--Navigate to backend 
+-Navigate to backend
 -In terminal, enter, pip install flask pandas openrouteservice folium flask-cors
 
 (Running)
