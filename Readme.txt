@@ -1,10 +1,10 @@
-Final year project, interactive web application to proivde an analysis on the risk of deatch while undertaking a journey.
+Final year project, interactive web application to provide an analysis on the risk of death while undertaking a journey.
 
 Access main code is as follows:
 UI code  -> /risk-map/Frontend/src/App.jsx     
 Server side -> /risk-map/Backend/main.py
 
-Calculations contains all datasets used for aquiring mircomort value.
+Calculations contains all datasets used for acquiring micromort value.
 
 Code in report are sections from either App.jsx or main.py.
 
