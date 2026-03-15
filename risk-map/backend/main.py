@@ -24,20 +24,20 @@ def serve_map():
 
 
 
-data = { # More straight forward to store the Age and Gender data here and access it based on the inputs
-    'female': pd.Series([1.58, 2.22, 4.75, 2.59, 3.01, 2.32, 5.44],
+Age_gender = { # More straight forward to store the Age and Gender data here and access it based on the inputs
+    'Female': pd.Series([1.58, 2.22, 4.75, 2.59, 3.01, 2.32, 5.44],
                         index=['18-20 years','21-24 years','25-34 years','35-44 years','45-54 years','55-64 years','65 years and over']),
-    'male': pd.Series([8.71, 11.88, 20.12, 13.36, 7.18, 5.12, 11.72],
+    'Male': pd.Series([8.71, 11.88, 20.12, 13.36, 7.18, 5.12, 11.72],
                         index=['18-20 years','21-24 years','25-34 years','35-44 years','45-54 years','55-64 years','65 years and over'])
 }
 
-df = pd.DataFrame(data) # stored as dataframe.
+df = pd.DataFrame(Age_gender) # stored as dataframe.
 
-print(df)
+#print(df) #printing  dataframe
 
 day_risk = { 'Day':1, 'Night':4.624} # Dictionary to store the Night and Day values, if input is day the value used in calculation is 1 and vice versa.
 
-print(day_risk)
+#print(day_risk) #  print dictionary time of day
 
 @app.route('/handle/post', methods=['POST']) ##post end point for inputs 
 def handle_post():  #handling https requests 
@@ -54,18 +54,23 @@ def handle_post():  #handling https requests
     startRes= client.pelias_search(text=start_loc, size =1, country="IRL") # combines full text search, takes the top result in ireland corresponding to the inputted location. 
     endRes= client.pelias_search(text=end_loc, size =1, country="IRL") # combines full text search, takes the top result in ireland corresponding to the inputted location. 
     
-    print(startRes) # printing returned JSON start object, making sure it works 
+    #print(startRes) # printing returned JSON start object, making sure it works 
     
-    print(endRes) # printing returned JSON end object, making sure it works
+    #print(endRes) # printing returned JSON end object, making sure it works
     
     startfeat= startRes["features"][0] # Extracts the first start feature.
     endfeat= endRes["features"][0] # Extracts the first end feature.
     
+    #print(startfeat) # print features, remove comment if want features printed 
+    
     s_lon, s_lat=startfeat["geometry"]["coordinates"] # Extracting longitude and latitude from geometry of start feature.
     e_lon, e_lat=endfeat["geometry"]["coordinates"] # Extracting longitude and latitude from geometry of end feature.
-   
+    
+    print(F"Start : longitude {s_lon} ,  latitude {s_lat} ")
+    print(F"Start : latitude {s_lat} ,  longitude {s_lon} ")
     s_latlon = (s_lat, s_lon) # Coordinates needed to be switched to be used with a folium map, Storing latitude and longitude in variable in form [latitude, longitude].
     e_latlon = (e_lat, e_lon)
+    
     
     print("Start: ",start_loc,"to End: ",end_loc) # Printing start and end location to terminal.
     
@@ -103,6 +108,7 @@ def handle_post():  #handling https requests
     route = client.directions(coordinates=coords, # calls the ORS API and returns a driving route based off the coordinates in a JSON object.
                          profile='driving-car',  
                          format='geojson')
+    #print(route), Remove comment if want route printed
     
     line_coords = [ # Coordinates of the line from point A to point B
                    
@@ -112,6 +118,8 @@ def handle_post():  #handling https requests
         
         route['features'][0]['geometry']['coordinates'] # ORS returns [longitude, latitude] but folium accepts [latitude, longitude], so the coordinates are swapped.
     ]
+    folium.PolyLine(locations=line_coords, color="blue").add_to(m) # Adds a blue line to the route between start and end, then adds it to the map.
+    
     
     Distance = route['features'][0]['properties']['summary']['distance'] # Extracting distance from route response [0] means select the first value.
     Time = route['features'][0]['properties']['summary']['duration']   # Extracting duration from route response.
@@ -161,9 +169,9 @@ def handle_post():  #handling https requests
     
     RiskPerKm = 4.90523678e-9 # Risk of death per kilometre from equation (4.18).
     
-    risk_percent = df.loc[input_age, input_gender.lower()] # locates the risk percentage of the gender and age group using the DataFrame defined on line 23. 
+    risk_percent = df.loc[input_age, input_gender] # locates the risk percentage of the gender and age group using the DataFrame defined on line 23. 
     
-    KM = round(Distance/1000) # Distance was returned as meters, need to be converted into kilometres.
+    KM = round(Distance/1000,1) # Distance was returned as meters, need to be converted into kilometres.
     
     RiskMultiplier = (risk_percent)/(AverageDeathPerGroup) # Derived in chapter 4 of project report, under equation (4.2).
     
@@ -184,7 +192,7 @@ def handle_post():  #handling https requests
     
     print("Input Day = "+str(input_day)) # Day
     
-    folium.PolyLine(locations=line_coords, color="blue").add_to(m) # Adds a blue line to the route between start and end, then adds it to the map.
+    
     
    
     
